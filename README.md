@@ -11,7 +11,7 @@ Focus on the connectivity between the frontend and the backend, along with handl
 </ul>
 
 # Quick start 
-<ul>
+<ol>
 <li>To run the backend, inside the backend/fullstack-todo folder run `./mvnw spring-boot:run` in a command prompt. </li>
 <li>To run the frontend, inside the frontend folder run `npm install && npm run dev` in a command prompt. </li>
-</ul>
+</ol>
