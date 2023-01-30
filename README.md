@@ -1,7 +1,7 @@
 # fullstack-todo-next-spring
 A fullstack todo app made with nextjs for the frontend(and 1st api layer to backend) and java-spring for the backend(with mysql for persistence).
 # Project goal
-Focus on the connectivity between the frontend and the backend, along with handling ui and db events.
+Focus on the communication between the frontend and the backend, along with handling ui and db events.
 # Setup
 <ul>
 <li>(this assumes that you have the jdk installed, if not download it here: <a href="https://www.oracle.com/java/technologies/downloads/">Oracle downloads</a>)</li>
